@@ -1,0 +1,16 @@
+locale = "en"
+label = "English"
+weight = 1
+title = "Katie Fan"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  description = "Katie Fan on extracting SME judgment into production vertical agents."
+
+[params.author]
+  name = "Katie Fan"
+  image = "img/avatar.png"
+  headline = "Extracting SME judgment into production vertical agents"
+  bio = "Making AI agents reliable where mistakes are expensive"
