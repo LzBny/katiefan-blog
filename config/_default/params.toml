@@ -2,11 +2,15 @@ colorScheme = "teal"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 
+defaultBackgroundImage = "img/hero-background.svg"
+imagePosition = "50% 50%"
+
 [homepage]
-  layout = "profile"
+  layout = "background"
   showRecent = true
   showRecentItems = 12
   showMoreLink = false
+  layoutBackgroundBlur = false
 
 [footer]
   showMenu = true
