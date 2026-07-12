@@ -11,6 +11,6 @@ title = "Katie Fan"
 
 [params.author]
   name = "Katie Fan"
-  image = "img/avatar.png"
+  image = "img/avatar.svg"
   headline = "Extracting SME judgment into production vertical agents"
   bio = "Making AI agents reliable where mistakes are expensive"
